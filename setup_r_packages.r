@@ -1,0 +1,1 @@
+install.packages(c("zoo","tseries","TSA","xts","mvtnorm","boot","quadprog","fPortfolio","PerformanceAnalytics"))
